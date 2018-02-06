@@ -1,3 +1,4 @@
 Name: Alvaro
 Age: 32
 Favorite Color: Blue
+Status: Married
